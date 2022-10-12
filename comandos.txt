@@ -1,0 +1,44 @@
+    1  git init
+    2  clear
+    3  ls
+    4  clear
+    5  source C:/ProgramData/Anaconda3/Scripts/activate base
+    6  import zen372.py 
+    7  import zen372.py 
+    8  python
+    9  clear
+   10  python
+   11  clear
+   12  python
+   13  clear
+   14  python
+   15  clear
+   16  python
+   17  git init
+   18  clear
+   19  git status
+   20  touch .gitignore
+   21  git status
+   22  clear
+   23  git add .
+   24  git status
+   25  clear
+   26  git status
+   27  git commit -m "agregando base para modulos"
+   28  clear
+   29  git status
+   30  fit status
+   31  git status
+   32  git remote add origin https://github.com/padreTj/modulos.git
+   33  git push -u origin main
+   34  source C:/ProgramData/Anaconda3/Scripts/activate base
+   35  clear
+   36  git remote add origin https://github.com/padreTj/modulos.git
+   37  git push -u origin main
+   38  clear
+   39  git status
+   40  git add .
+   41  git commit -m "agregue el calculator"
+   42  git push -u origin main
+   43  git log
+   44  history > comandos.txt
